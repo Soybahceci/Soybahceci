@@ -22,6 +22,7 @@ Siber güvenlik alanına ilgi duyan, Linux sistemler üzerinde çalışan ve ken
 
 ### 🏆 Öne Çıkan Açık Kaynak Projem
 Linux yeteneklerimi kullanarak 3D yazıcılar (Klipper/Moonraker) için geliştirdiğim güvenli Telegram kontrol servisi:
+
 [![KlipperGram](https://github-readme-stats.vercel.app/api/pin/?username=Soybahceci&repo=klippergram-panel&theme=radical&show_owner=true)](https://github.com/Soybahceci/klippergram-panel)
 
 ### 📊 GitHub İstatistiklerim
